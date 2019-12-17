@@ -1,6 +1,8 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "mis datos",
+    "name": "THALIA AURORA LOGRONO MAJI",
+    "celular": "0978925503",
+    "correo": "thalia.logronom@ug.edu.ec",
     "version": "5.0.9",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
